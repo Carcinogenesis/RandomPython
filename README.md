@@ -4,4 +4,4 @@ something I made for hypixel forums
 go into the commandline and
 >python gethypixelhtml.py (put in link to thread here)
 
-quotes.txt should have been created in your directory with invisible quotes
+quotes.txt should have been created in your directory with invisible quotes and an html file
