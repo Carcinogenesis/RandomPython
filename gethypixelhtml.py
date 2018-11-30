@@ -7,4 +7,5 @@ if __name__ == "__main__":
     rtxt = r.text
     f = open("html", "wb")
     pickle.dump(rtxt, f)
+    f.close()
     import extractmemberlist
